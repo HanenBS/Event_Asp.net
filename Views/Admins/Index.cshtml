@@ -1,0 +1,316 @@
+﻿@model IEnumerable<ahmedHanen.Models.Admin>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Ajoutez le code de style ici -->
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicons -->
+    <link href="~/img/favicon.png" rel="icon">
+    <link href="~/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+    <!-- Bootstrap CSS File -->
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Libraries CSS Files -->
+    <link href="~/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="~/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="~/lib/venobox/venobox.css" rel="stylesheet">
+    <link href="~/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Main Stylesheet File -->
+    <link href="~/css/style.css" rel="stylesheet">
+
+    <!-- Custom Styles for the table -->
+    <style>
+        /* Styles communs pour le corps de la page */
+        body {
+            font-family: 'Varela Round', sans-serif; /* Use the custom font from the template */
+            color: rgba(6, 12, 34, 0.98);
+            ;
+            background: #f5f5f5;
+            font-size: 13px;
+        }
+
+        h1 {
+            margin-bottom: 20px; /* Add some space below the heading */
+            font-size: 36px;
+            color: rgba(6, 12, 34, 0.98);
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 20px; /* Add some space below the table */
+        }
+
+        th, td {
+            border: 1px solid #e9e9e9;
+            padding: 12px 15px;
+            vertical-align: middle;
+        }
+
+        th {
+            background-color: rgba(6, 12, 34, 0.98);
+            color: #fff;
+        }
+
+        tr:nth-child(even) {
+            background-color: #fcfcfc;
+        }
+
+        tr:hover {
+            background: #f5f5f5;
+        }
+
+  
+        .btn-admin {
+            color: #fff;
+            background: #f82249;
+            padding: 7px 22px;
+            border-radius: 50px;
+            border: 2px solid #f82249;
+            transition: all ease-in-out 0.3s;
+            font-weight: 500;
+            margin-left: 8px;
+            margin-top: 2px;
+            line-height: 1;
+            font-size: 13px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px;
+        }
+
+       
+        body {
+            color: #566787;
+            background: #f5f5f5;
+            font-family: 'Varela Round', sans-serif;
+            font-size: 13px;
+        }
+
+        /* Styles pour le tableau d'événements */
+        .table-responsive {
+            margin: 30px 0;
+        }
+
+        .table-wrapper {
+            background: #fff;
+            padding: 20px 25px;
+            border-radius: 3px;
+            min-width: 1000px;
+            box-shadow: 0 1px 1px rgba(0,0,0,.05);
+        }
+
+        .table-title {
+            padding-bottom: 15px;
+            background: #435d7d;
+            color: #fff;
+            padding: 16px 30px;
+            min-width: 100%;
+            margin: -20px -25px 10px;
+            border-radius: 3px 3px 0 0;
+        }
+
+            .table-title h2 {
+                margin: 5px 0 0;
+                font-size: 24px;
+            }
+
+            .table-title .btn-group {
+                float: right;
+            }
+
+            .table-title .btn {
+                color: #fff;
+                float: right;
+                font-size: 13px;
+                border: none;
+                min-width: 50px;
+                border-radius: 2px;
+                border: none;
+                outline: none !important;
+                margin-left: 10px;
+            }
+
+                .table-title .btn i {
+                    float: left;
+                    font-size: 21px;
+                    margin-right: 5px;
+                }
+
+                .table-title .btn span {
+                    float: left;
+                    margin-top: 2px;
+                }
+
+        table.table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+            table.table tr th, table.table tr td {
+                border-color: #e9e9e9;
+                padding: 12px 15px;
+                vertical-align: middle;
+            }
+
+                table.table tr th:first-child {
+                    width: 60px;
+                }
+
+                table.table tr th:last-child {
+                    width: 100px;
+                }
+
+        table.table-striped tbody tr:nth-of-type(odd) {
+            background-color: #fcfcfc;
+        }
+
+        table.table-striped.table-hover tbody tr:hover {
+            background: #f5f5f5;
+        }
+
+        table.table th i {
+            font-size: 13px;
+            margin: 0 5px;
+            cursor: pointer;
+        }
+
+        table.table td:last-child i {
+            opacity: 0.9;
+            font-size: 22px;
+            margin: 0 5px;
+        }
+
+        table.table td a {
+            font-weight: bold;
+            color: #566787;
+            display: inline-block;
+            text-decoration: none;
+            outline: none !important;
+        }
+
+            table.table td a:hover {
+                color: #2196F3;
+            }
+
+            table.table td a.edit {
+                color: #FFC107;
+            }
+
+            table.table td a.delete {
+                color: #F44336;
+            }
+
+        table.table td i {
+            font-size: 19px;
+        }
+
+        table.table .avatar {
+            border-radius: 50%;
+            vertical-align: middle;
+            margin-right: 10px;
+        }
+
+        /* Pagination styles */
+        .pagination {
+            float: right;
+            margin: 0 0 5px;
+        }
+
+            .pagination li a {
+                border: none;
+                font-size: 13px;
+                min-width: 30px;
+                min-height: 30px;
+                color: #999;
+                margin: 0 2px;
+                line-height: 30px;
+                border-radius: 2px !important;
+                text-align: center;
+                padding: 0 6px;
+            }
+
+                .pagination li a:hover {
+                    color: #666;
+                }
+
+            .pagination li.active a, .pagination li.active a.page-link {
+                background: #03A9F4;
+            }
+
+                .pagination li.active a:hover {
+                    background: #0397d6;
+                }
+
+            .pagination li.disabled i {
+                color: #ccc;
+            }
+
+            .pagination li i {
+                font-size: 16px;
+                padding-top: 6px;
+            }
+
+        /* Accessibilité pour les utilisateurs au clavier */
+        .hint-text {
+            float: left;
+            margin-top: 10px;
+            font-size: 13px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Admin List</h1>
+
+    <p>
+        <a asp-action="Create">Create New Admin</a>
+    </p>
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Nom)</th>
+                <th>@Html.DisplayNameFor(model => model.Prenom)</th>
+                <th>@Html.DisplayNameFor(model => model.Email)</th>
+                <th>@Html.DisplayNameFor(model => model.MotDePasse)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Nom)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Prenom)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                    <td>@Html.DisplayFor(modelItem => item.MotDePasse)</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Nom">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Nom">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Nom">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <span class="button-container">
+        <button class="btn-admin" onclick="window.location.href='/events/index'">Events</button>
+        <button class="btn-admin" onclick="window.location.href='/membres/index'">Membres</button>
+        <button class="btn-admin" onclick="window.location.href='/organisateurs/index'">Organisateurs</button>
+    </span>
+
+</body>
+</html>

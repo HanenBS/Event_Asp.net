@@ -1,0 +1,597 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ahmedHanen.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ahmedHanen.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\contactform\\Readme.txt",
+      "PackagePath": "staticwebassets\\contactform\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\contactform\\contactform.js",
+      "PackagePath": "staticwebassets\\contactform\\contactform.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\css\\scss-files.txt",
+      "PackagePath": "staticwebassets\\css\\scss-files.txt"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\hotels\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\hotels\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\hotels\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\intro-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\intro-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\speakers\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\speakers\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\speakers\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\speakers\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\speakers\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\speakers\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\speakers\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\speakers\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\speakers\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\speakers\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\speakers\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\speakers\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\speakers\\bizpage-preview.png",
+      "PackagePath": "staticwebassets\\img\\speakers\\bizpage-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\subscribe-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\subscribe-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\supporters\\1.png",
+      "PackagePath": "staticwebassets\\img\\supporters\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\supporters\\2.png",
+      "PackagePath": "staticwebassets\\img\\supporters\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\supporters\\3.png",
+      "PackagePath": "staticwebassets\\img\\supporters\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\supporters\\4.png",
+      "PackagePath": "staticwebassets\\img\\supporters\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\supporters\\5.png",
+      "PackagePath": "staticwebassets\\img\\supporters\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\supporters\\6.png",
+      "PackagePath": "staticwebassets\\img\\supporters\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\supporters\\7.png",
+      "PackagePath": "staticwebassets\\img\\supporters\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\supporters\\8.png",
+      "PackagePath": "staticwebassets\\img\\supporters\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\venue-gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\venue-gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\venue-gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\venue-gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\venue-gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\venue-gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\venue-gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\venue-gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\venue-gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\venue-gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\venue-gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\venue-gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\venue-gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\venue-gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\venue-gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\venue-gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\img\\venue-info-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\venue-info-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery\\jquery-migrate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-migrate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\superfish\\hoverIntent.js",
+      "PackagePath": "staticwebassets\\lib\\superfish\\hoverIntent.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\superfish\\superfish.js",
+      "PackagePath": "staticwebassets\\lib\\superfish\\superfish.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\superfish\\superfish.min.js",
+      "PackagePath": "staticwebassets\\lib\\superfish\\superfish.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\venobox\\venobox.css",
+      "PackagePath": "staticwebassets\\lib\\venobox\\venobox.css"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\venobox\\venobox.js",
+      "PackagePath": "staticwebassets\\lib\\venobox\\venobox.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\venobox\\venobox.min.js",
+      "PackagePath": "staticwebassets\\lib\\venobox\\venobox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\hanen\\Videos\\ahmedHanen\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ahmedHanen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ahmedHanen.props",
+      "PackagePath": "build\\ahmedHanen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ahmedHanen.props",
+      "PackagePath": "buildMultiTargeting\\ahmedHanen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ahmedHanen.props",
+      "PackagePath": "buildTransitive\\ahmedHanen.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
