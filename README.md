@@ -27,9 +27,9 @@ ahmedHanen.csproj: Fichier de projet principal contenant la configuration du pro
 -Compilez et exécutez le projet dans Visual Studio.
 
 ## Fonctionnalités:
--Gestion des utilisateurs et des rôles
--Gestion des produits et des commandes
--Tableau de bord administratif
+-Gestion des utilisateurs et des rôles.
+-Gestion des produits et des commandes.
+-Tableau de bord administratif.
 
 ## Technologies utilisées:
 *ASP.NET Core
