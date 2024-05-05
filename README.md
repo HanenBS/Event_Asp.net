@@ -1,6 +1,7 @@
-AhmedHanen - Application Web ASP.NET
+## AhmedHanen - Application Web ASP.NET
 Ce projet est une application web ASP.NET développée dans le cadre d'un projet académique en collaboration avec Ahmed.
-Configuration
+
+## Configuration
 Assurez-vous d'avoir une base de données SQL Server disponible. Vous pouvez configurer la chaîne de connexion dans le fichier appsettings.json :
 ```json
 {
@@ -16,21 +17,21 @@ Assurez-vous d'avoir une base de données SQL Server disponible. Vous pouvez con
   "AllowedHosts": "*"
 }
 ```
-Structure du projet
+## Structure du projet
 ahmedHanen.csproj: Fichier de projet principal contenant la configuration du projet.
 
-Installation et exécution
+## Installation et exécution:
 -Clonez ce dépôt sur votre machine locale.
 -Ouvrez le projet dans Visual Studio.
 -Assurez-vous que la connexion à la base de données est correctement configurée dans appsettings.json.
 -Compilez et exécutez le projet dans Visual Studio.
 
-Fonctionnalités
+## Fonctionnalités:
 -Gestion des utilisateurs et des rôles
 -Gestion des produits et des commandes
 -Tableau de bord administratif
 
-Technologies utilisées
+## Technologies utilisées:
 *ASP.NET Core
 *Entity Framework Core
 *SQL Server
